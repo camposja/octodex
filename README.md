@@ -8,4 +8,4 @@
   - HTML
   - CSS
 
-https://raw.githubusercontent.com/camposja/octodex/master/docs/Screen%20Shot%202017-05-07%20at%208.41.20%20PM.png
+(https://raw.githubusercontent.com/camposja/octodex/master/docs/Screen%20Shot%202017-05-07%20at%208.41.20%20PM.png)
